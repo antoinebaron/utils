@@ -2,7 +2,7 @@
 
 Use index.php to get Pinterest API token the easy way (it took me quite some time before I could find the way to start the Oauth Flow)
 
-Place the index.php anywhere in htdocs and lauch it from a browser
+Place the index.php anywhere in htdocs and launch it from a browser
 
 The image bellow is a screenshot of what you will get, just follow the instructions
 

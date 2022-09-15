@@ -18,4 +18,4 @@ https://developers.pinterest.com/docs/api/v5/#section/Refreshing-an-access-token
 ## Screenshot of the index.php file :
 
 
-![Capture du 2021-04-01 13-13-49](https://raw.githubusercontent.com/antoinebaron-io/utils/main/get_started_with_pinterest_api/index.png)
+![Capture du 2021-04-01 13-13-49](https://raw.githubusercontent.com/antoinebaron/utils/main/get_started_with_pinterest_api/screenshot.png)

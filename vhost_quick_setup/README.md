@@ -1,4 +1,4 @@
-### Apache vhost quick setup 
+### Apache vhost quick setup on LAMP
 
 screenshot below
 

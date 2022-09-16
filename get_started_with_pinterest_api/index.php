@@ -127,9 +127,6 @@ $empty_example = array('code' => '...........');
 
     </div>
   </main>
-  <footer class="pt-5 my-5 text-muted border-top">
-    Created by antoinebaron.io
-  </footer>
 </div>
   </body>
 </html>

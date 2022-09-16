@@ -168,10 +168,6 @@ $local_domain = $safe_GET['local_domain'];
  	}
 	?>
 
-  <footer class="pt-3 my-5 text-muted border-top">
-    Powered by antoinebaron.io
-  </footer>
-
 </div>
 
 <script type="text/javascript">
